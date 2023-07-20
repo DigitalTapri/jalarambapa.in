@@ -53,3 +53,10 @@ footer {
   line-height: 1.6;
   text-align: center;
 }
+/* Add this CSS to center align the video */
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
